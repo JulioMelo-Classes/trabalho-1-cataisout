@@ -15,9 +15,14 @@
 
 # Markdow - Funcionalidades
 - [X] Implementar Classe
-- [ ] Implementar classe forca
 - [X] Validação de arquivos score e palavras
 - [X] Implementação interface textual
 - [X] Execução jogo da Forca
-- [ ] Documentação
 - [ ] Compilação automatizada
+
+# Limitações
+
+* A validação dos arquivos nao funciona para espaços vazios
+* Bonequinho enforcado aparece apenas se der game over
+* Não atualização do arquivo score, apenas a criação de um novo para a pontuação atual
+* A seleção de palavras de acordo com o nível está muitoo superficial e possui falhas
